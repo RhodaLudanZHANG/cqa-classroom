@@ -1,11 +1,12 @@
 window.__CQA_CLASSROOM_STUDENT_CONFIG__ = Object.freeze({
-  "mode": "cloud-canary-restored",
+  "mode": "production",
   "firebase": {
-    "apiKey": "AIzaSyBEwL_mfbzn66R6mrlLFYqSL-nVjNlblZk",
-    "authDomain": "cqa-school-canary.firebaseapp.com",
-    "projectId": "cqa-school-canary",
-    "appId": "1:52814386346:web:f884871711511bbabeecd3",
-    "storageBucket": "cqa-school-canary.firebasestorage.app",
-    "messagingSenderId": "52814386346"
-  }
+    "apiKey": "AIzaSyCmipBGo2_40-zg8QmUq1FlJSA4IYPx2mE",
+    "authDomain": "ms-ludan-quest.firebaseapp.com",
+    "projectId": "ms-ludan-quest",
+    "appId": "1:529163763379:web:a42f80a58eb898fb0ebac6",
+    "storageBucket": "ms-ludan-quest.firebasestorage.app",
+    "messagingSenderId": "529163763379"
+  },
+  "bootstrapUrl": "https://chinese-quest-atlas.vercel.app/api/student/login-bootstrap"
 });
